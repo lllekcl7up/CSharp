@@ -25,7 +25,7 @@ ___
 
 ### **Блок - Схема:** 
 
-<img src="https://raw.githubusercontent.com/lllekcl7up/ControlWorkForGB/ed3f82dd78c3b9c5debb53097c1a256b763bbbff/BlockDiagram.drawio.svg" alt="drawing" width="500"/>
+<img src="https://github.com/lllekcl7up/CSharpLesson/blob/main/ControlWorkForGB/BlockDiagram.png" alt="drawing" width="500"/>
 
 ___
 ### **Алгоритм:** 
